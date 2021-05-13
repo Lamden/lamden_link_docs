@@ -1,37 +1,72 @@
-[![whaledocs](./static/full_logo_banner.png ':size=800')](https://www.pixelwhale.io)
+[![Linkdocs](./static/full_logo_banner.png ':size=800')](https://www.lamdenlink.com)
 
-### What is [Pixel Whale](https://www.pixelwhale.io)?
-Pixel Whale brings together pixel art creators and buyers on a simple platform fully integrated with the [Lamden Blockchain](https://www.lamden.io). It allows everyone to browse art and artists to easily create NFTs with listing options for buyers to purchase on the marketplace.
+## What is Lamden Link?
 
-### Who are the team behind Pixel Whale?
-Jeff Scott from the Lamden Developer team is the creator.
 
-### How can I contact the team?
-They are available through Lamden channels:  
-Contact us on [Telegram](https://t.me/lamdenchat)   
-Read, like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
-Check out our articles on [Medium](https://medium.com/@Lamden)
+## How to Swap
 
-### Do I need TAU to use the site?
-Technically... no, but let me explain. You can browse the art and can also create art and it will save locally to your browser storage.  However if you want to do any on-chain actions (minting NFTS, buying, liking, selling etc) you will need some TAU.  So if you feel like having a draw first - give it a try.
+You will need the following wallets which are both available on the Chrome store:
+* Metamask - [available here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+* Lamden Wallet - [available here](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim)
 
-### I found a bug!
-Submit an [issue](https://github.com/Lamden/pixel_whale_docs/issues) on Github - That way you can check to see if anyone else has reported it and this is also the best way to ensure the developer sees it.
+For ease of progress make sure you are signed in to both wallets before starting the swap.
 
-### Why no $WHALE token?
-There was no need to create a whale token, Lamden TAU serves the same purpose — as a store of value and handles all NFT storage on-chain.
+### Overview
 
-### What fees apply?
-All transactions are performed through smart contracts on the Lamden Blockchain. Pixel Whale takes no fee for any transactions on the site.
+The picture below shows the basic process we are going to walk through to swap from Ethereum to Lamden.  Basically, we will start in Metamask, we will wrap the Ethereum on Etherscan, migrate it over to Lamden using the Lamden Link, and deposit it in your Lamden wallet.    
+![Linkdoc1](./static/Link1.png ':size=1000')    
 
-### But… how does Pixel Whale pay to keep the lights on?
-Pixel Whale was a passion project and one enjoyed by the community in it’s original iteration on Lamden test network (originally called Pixel Frames). Pixel Whale generates a small income stream through feedback mechanisms provided by Lamden to support early developers who use the Lamden network.
+### Wrapping your Ethereum (Etherscan)
 
-### There is a watermark on the art!
-The watermark is placed on art that you don’t own and the removal is a special perk for owners of that particular piece of art. If there is a watermark on something you own, perhaps it was sold to someone else before you posted the image. Check to make sure you still own the art.
+>[!Note]
+>Wrapping your Ethereum is all performed on the Ethereum side, be aware the speed and transaction costs differ significantly to using the Lamden network. Be prepared to wait for the Ethereum network to process the transaction and the possibility of high gas costs.    
 
-### My share link does not work!
-Check to make sure you still own the art. The link is made invalid after every sale of the art.
+1. Head over to Etherscan, specifically we need the WETH write contract. [Link here will get you to the right spot.](https://kovan.etherscan.io/token/0xd0a1e359811322d97991e03f863a0c30c2cf029c#writeContract)    
 
-### I have more questions!
-First, thank you for reading this whole FAQ. Second, this FAQ only gets better by you asking questions. If we did not answer your question in the rest of this document, ask in telegram.
+2. Connect Metamask to the Etherscan site by clicking the button highlighted below. Follow the prompts on Metamask to approve the site to interact with Metamask.
+![Linkdoc2](./static/Link2.png ':size=1000')
+
+>[!Note] 
+>The button you clicked should now be showing as green. If it is still red, click the button again, follow the prompts and it should now go green.    
+
+3. Click the deposit dropdown to open the deposit section. Input the amount of Ethereum (ETH) you would like to wrap into WETH then click *Write*.    
+
+>[!Note]
+>If you get an error. Check to make sure you have enough Ethereum to swap, also make sure you are still connected - green light mentioned previously.    
+
+4. You will get a popup from Metamask to confirm the transaction. Read the details, understand the gas fees associated, then click Confirm to continue.    
+
+5. Wait for the Metamask confirmation.    
+
+>[!Tip]
+>You can check the progress of a pending transaction in Metamask by clicking *Activity*, then below that it *should* be the last transaction, click this. The popup offers a link in the top left to Etherscan to view to progress of the transaction. Completely optional, as Metamask keeps monitoring this for you - but if you are bored waiting can this can be good to check.    
+
+6. The wrapping should have occured however we can't see the WETH until we add the token details to Metamask. In Metamask:    
+* On the Main page, click *Assets*
+* Then click *Add Token* (You may need to scroll down to see it)
+* Add the following token address `0xd0a1e359811322d97991e03f863a0c30c2cf029c`
+* The Token name should auotpopulate with WETH and the decimals will also autopopulate with 18
+* click *Next* (you should see your WETH at this stage)
+* click *Add Token*    
+
+Thats it! You will now see the WETH in your Metamask ready to move to the Lamden network. Next step, using Lamden Link.    
+
+### Lamden Link
+1. Head over to Lamden Link - www.lamdenlink.com
+
+2. When connecting to the LamdenLink site for the first time you will receive a prompt from the Lamden Wallet for "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
+![Linkdoc1](./static/Link3.png ':size=1000')    
+
+>[!Note]
+>Creating a separate account for the Link app is a normal security feature of Lamden to prevent access to your full wallet by any one application.      
+
+2. dsfssd
+
+3. sdfs
+
+4. sdfsd
+
+5. sdfsd
+
+ 
+
