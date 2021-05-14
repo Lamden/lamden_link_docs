@@ -84,11 +84,11 @@ Thats it! You will now see the WETH in your Metamask ready to move to the Lamden
 6. Metamask will ask to then confirm the deposit action to be performed. Click Confirm, then wait for the confirmation by Metamask (this may take some time on Ethereum network).    
 ![Linkdoc7](./static/Link7.png ':size=500')
 
-7. You will receive the notification that swapping was successful on the Lamden Link site (Image Below).
+7. You will receive the notification that swapping was successful on the Lamden Link site (Image Below).    
 ![Linkdoc8](./static/Link8.png ':size=1000')
 
 >[!Tip]
->You can verify this by clicking the *switch* option, then selecting WETH from the token name dropdown. Your WETH should be sitting there on the Lamden side. You can also verify this in your Wallet (Next Step)
+>You can verify this by clicking the *switch* option, then selecting WETH from the token name dropdown. Your WETH should be sitting there on the Lamden side. You can also verify this in your Wallet (Next Step)    
 
 ### Lamden Wallet
 Your WETH should be in your Lamden Link account within your Lamden Wallet however you need to make it visible. To do this follow these steps:    
