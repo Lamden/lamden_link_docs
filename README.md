@@ -62,7 +62,7 @@ Thats it! You will now see the WETH in your Metamask ready to move to the Lamden
 1. Head over to Lamden Link - www.lamdenlink.com
 
 2. When connecting to the LamdenLink site for the first time you will receive a prompt from the Lamden Wallet for "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
-![Linkdoc1](./static/Link3.png ':size=1000')    
+![Linkdoc3](./static/Link3.png ':size=1000')    
 
 >[!Note]
 >Creating a separate account for the Link app is a normal security feature of Lamden to prevent access to your full wallet by any one application.      
