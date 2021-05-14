@@ -59,21 +59,50 @@ The picture below shows the basic process we are going to walk through to swap f
 Thats it! You will now see the WETH in your Metamask ready to move to the Lamden network. Next step, using Lamden Link.    
 
 ### Lamden Link
-1. Head over to Lamden Link - www.lamdenlink.com
+1. Head over to Lamden Link - www.lamdenlink.com    
 
-2. When connecting to the LamdenLink site for the first time you will receive a prompt from the Lamden Wallet for "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
+
+2. You will need to click *Connect* to authorise Lamden Link for use with Metamask Wallet.  Follow the prompts similar to the images below, read the details, click *Next*, then click *Connect*.    
+![Linkdoc4](./static/Link4.png ':size=1000')    
+
+3. Click *Connect* again to create the account within your Lamden Wallet. You will be guided through the "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
 ![Linkdoc3](./static/Link3.png ':size=1000')    
 
 >[!Note]
 >Creating a separate account for the Link app is a normal security feature of Lamden to prevent access to your full wallet by any one application.      
 
-2. dsfssd
+4. We are now basically ready to swap.  For this example transaction we are swapping from the Ethereum network to Lamden however it is just as easy to swap back by hitting the "switch" wording which will change the direction of the arrow, and the direction of the transaction.    
+* Select the Token to send in the *Token Name* dropdown (this should be only WETH currently)
+* Input the amount to send in the *Amount* box
+* Click the bottom button to send it - this should be *Send tokens to Lamden*.    
+>[!Tip] 
+>If the arrows are confusing the button at the bottom will tell you what you are about to do - either "Send tokens to Lamden" or "Send tokens to Ethereum".    
 
-3. sdfs
+5. Metamask will ask for confirmation to "spend" your WETH. Click Confirm, then wait for the confirmation by Metamask (this may take some time on Ethereum network).    
+![Linkdoc6](./static/Link6.png ':size=1000')
 
-4. sdfsd
+6. Metamask will ask to then confirm the deposit action to be performed. Click Confirm, then wait for the confirmation by Metamask (this may take some time on Ethereum network).    
+![Linkdoc7](./static/Link7.png ':size=1000')
 
-5. sdfsd
+7. You will receive the notification that swapping was successful on the Lamden Link site (Image Below).
+![Linkdoc8](./static/Link8.png ':size=1000')
+
+>[!Tip]
+>You can verify this by clicking the *switch* option, then selecting WETH from the token name dropdown. Your WETH should be sitting there on the Lamden side. You can also verify this in your Wallet (Next Step)
+
+### Lamden Wallet
+Your WETH should be in your Lamden Link account within your Lamden Wallet however you need to make it visible. To do this follow these steps:    
+
+1. Within your Lamden Wallet, click *ACCOUNTS & TOKENS*    
+2. From the Add New Account or Token popup:    
+* Select *Token* from the "What to Add?" option.
+* In Contract Name add `con_weth_lst001_v1`, then press *Enter*
+* Details should be like below, then click *Add Token*    
+![Linkdoc9](./static/Link9.png ':size=1000')
+
+You are done!
+
+
 
  
 
