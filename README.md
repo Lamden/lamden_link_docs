@@ -100,7 +100,7 @@ Your WETH should be in your Lamden Link account within your Lamden Wallet howeve
 * Details should be like below, then click *Add Token*    
 ![Linkdoc9](./static/Link9.png ':size=300')
 
-You are done!
+You are done! You will see the WETH along with any other tokens you have added to the wallet just above your other accounts.
 
 
 
