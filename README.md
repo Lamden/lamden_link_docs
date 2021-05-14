@@ -8,7 +8,7 @@ Lamden Link is a two way link between the Lamden blockchain and Ethereum, which 
 * [Email](mailto:team@lamden.io)
 * [Twitter](https://twitter.com/LamdenTau)
 
-The quickest way to contact the team is via Telegram as this is always active most hours of the day.    
+The quickest way to contact the team is via Telegram as this is active most hours of the day.    
 
 ## How to Swap
 
