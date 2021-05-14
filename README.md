@@ -23,7 +23,7 @@ For ease of progress make sure you are signed in to both wallets before starting
 The picture below shows the basic process we are going to walk through to swap from Ethereum to Lamden.  Basically, we will start in Metamask, wrap the Ethereum on Etherscan, migrate it over to Lamden using the Lamden Link, and it will finish in your Lamden wallet.    
 ![Linkdoc1](./static/Link1.png ':size=700')    
 
-### Wrapping your Ethereum (Etherscan)
+### Wrapping your Ethereum (on Etherscan)
 
 >[!Note]
 >Wrapping your Ethereum is all performed on the Ethereum side, be aware the speed and transaction costs differ significantly to using the Lamden network. Be prepared to wait for the Ethereum network to process the transaction and the possibility of high gas costs.    
