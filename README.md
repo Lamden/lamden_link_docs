@@ -51,7 +51,7 @@ The picture below shows the basic process we are going to walk through to swap f
 6. The wrapping should have occured however we can't see the WETH until we add the token details to Metamask. In Metamask:    
 * On the Main page, click *Assets*
 * Then click *Add Token* (You may need to scroll down to see it)
-* Add the following token address `0xd0a1e359811322d97991e03f863a0c30c2cf029c`
+* Add the following token address `0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`
 * The Token name should auotpopulate with WETH and the decimals will also autopopulate with 18
 * click *Next* (you should see your WETH at this stage)
 * click *Add Token*    
@@ -59,7 +59,7 @@ The picture below shows the basic process we are going to walk through to swap f
 Thats it! You will now see the WETH in your Metamask ready to move to the Lamden network. Next step, using Lamden Link.    
 
 ### Lamden Link
-1. Head over to Lamden Link - www.lamdenlink.com    
+1. Head to Lamden Link - www.lamdenlink.com    
 
 
 2. You will need to click *Connect* to authorise Lamden Link for use with Metamask Wallet.  Follow the prompts similar to the images below, read the details, click *Next*, then click *Connect*.    
