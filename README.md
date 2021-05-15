@@ -1,7 +1,7 @@
 [![Linkdocs](./static/full_logo_banner.png ':size=800')](https://www.lamdenlink.com)
 
 ## What is Lamden Link?
-Lamden Link is a two way link between the Lamden blockchain and Ethereum, which allows ERC20 tokens to move to the Lamden blockchain in wrapped form and return to Ethereum if desired.  Lamden link was created by the team at Lamden to allow value to move between both blockchains and future plans will include Lamden connecting with additional blockchains.    
+Lamden Link is a two way link between the Lamden blockchain and Ethereum which allows ERC20 tokens to move to the Lamden blockchain in wrapped form and return to Ethereum if desired.  Lamden link was created by the team at Lamden to allow value to move between both blockchains and future plans will include Lamden connecting with additional blockchains.    
 
 ## Contacts
 * [Telegram](https://t.me/lamdenchat)
