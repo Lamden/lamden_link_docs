@@ -1,4 +1,4 @@
-## Swapping from Ethereum to Lamden network
+## Swapping from Lamden to Ethereum network
 
 ### Overview
 
