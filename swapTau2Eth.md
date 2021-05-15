@@ -3,7 +3,7 @@
 ### Overview
 
 The picture below shows the basic process we are going to walk through to swap from Ethereum to Lamden.  Basically, we will start in Metamask, wrap the Ethereum on Etherscan, migrate it over to Lamden using the Lamden Link, and it will finish in your Lamden wallet.    
-![Linkdoc1](./static/E2LLink1.png ':size=700')    
+![Linkdoc1](./static/L2ELink1.png ':size=700')    
 
 As discussed previously, you will require:
 * Metamask, installed and logged in
@@ -18,7 +18,7 @@ Your WETH should be in your Lamden Link account within your Lamden Wallet howeve
 * Select *Token* from the "What to Add?" option.
 * In Contract Name add `con_weth_lst001_v1`, then press *Enter*
 * Details should be like below, then click *Add Token*    
-![Linkdoc9](./static/E2LLink9.png ':size=300')
+![Linkdoc9](./static/L2ELink9.png ':size=300')
 
 You are done! You will see the WETH along with any other tokens you have added to the wallet just above your other accounts.
 
@@ -27,10 +27,10 @@ You are done! You will see the WETH along with any other tokens you have added t
 
 
 2. You will need to click *Connect* to authorise Lamden Link for use with Metamask Wallet.  Follow the prompts similar to the images below, read the details, click *Next*, then click *Connect*.    
-![Linkdoc4](./static/E2LLink4.png ':size=600')    
+![Linkdoc4](./static/L2ELink4.png ':size=600')    
 
 3. Click *Connect* again to create the account within your Lamden Wallet. You will be guided through the "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
-![Linkdoc3](./static/E2LLink3.png ':size=600')    
+![Linkdoc3](./static/L2ELink3.png ':size=600')    
 
 >[!Note]
 >Creating a separate account for the Link app is a normal security feature of Lamden to prevent access to your full wallet by any one application.      
@@ -43,13 +43,13 @@ You are done! You will see the WETH along with any other tokens you have added t
 >If the arrows are confusing the button at the bottom will tell you what you are about to do - either "Send tokens to Lamden" or "Send tokens to Ethereum".    
 
 5. Metamask will ask for confirmation to "spend" your WETH. Click Confirm, then wait for the confirmation by Metamask (this may take some time on Ethereum network).    
-![Linkdoc6](./static/E2LLink6.png ':size=300')
+![Linkdoc6](./static/L2ELink6.png ':size=300')
 
 6. Metamask will ask to then confirm the deposit action to be performed. Click Confirm, then wait for the confirmation by Metamask (this may take some time on Ethereum network).    
-![Linkdoc7](./static/E2LLink7.png ':size=300')
+![Linkdoc7](./static/L2ELink7.png ':size=300')
 
 7. You will receive the notification that swapping was successful on the Lamden Link site (Image Below).    
-![Linkdoc8](./static/E2LLink8.png ':size=800')
+![Linkdoc8](./static/L2ELink8.png ':size=800')
 
 >[!Tip]
 >You can verify this by clicking the *switch* option, then selecting WETH from the token name dropdown. Your WETH should be sitting there on the Lamden side. You can also verify this in your Wallet (Next Step)    
@@ -62,7 +62,7 @@ You are done! You will see the WETH along with any other tokens you have added t
 1. Head over to Etherscan, specifically we need the WETH write contract (`0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`). [Link here will get you to the right spot.](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#writeContract)    
 
 2. Connect Metamask to the Etherscan site by clicking the button highlighted below. Follow the prompts on Metamask to approve the site to interact with Metamask.    
-![Linkdoc2](./static/E2LLink2.png ':size=600')
+![Linkdoc2](./static/L2ELink2.png ':size=600')
 
 >[!Note] 
 >The button you clicked should now be showing as green. If it is still red, click the button again, follow the prompts and it should now go green.    
