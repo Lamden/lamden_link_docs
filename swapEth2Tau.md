@@ -11,7 +11,7 @@ As discussed previously, you will require:
 ### Wrapping your Ethereum (on Etherscan)
 
 >[!Note]
->Wrapping your Ethereum is all performed on the Ethereum side, be aware the speed and transaction costs differ significantly to using the Lamden network. Be prepared to wait for the Ethereum network to process the transaction and the possibility of high gas costs.    
+>Wrapping your Ethereum is all performed on the Ethereum side, be aware the speed and transaction costs differ significantly in comparison to using the Lamden network. Be prepared to wait for the Ethereum network to process the transaction and the possibility of high gas costs.    
 
 1. Head over to Etherscan, specifically we need the WETH write contract (`0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`). [Link here will get you to the right spot.](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#writeContract)    
 
