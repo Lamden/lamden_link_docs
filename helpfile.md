@@ -1,4 +1,5 @@
 ### Error Messages
+
 | Error          | Definition/Details |
 |----------------|--------------------|
 |                |                    |
@@ -7,7 +8,8 @@
 
 
 
-### Defintions
+### Definitions
+
 | Term | Definition/Details |
 |------|--------------------|
 |      |                    |
