@@ -87,17 +87,7 @@ You will see the WETH along with any other tokens you have added to the wallet j
 6. Wait for the Metamask confirmation.    
 
 >[!Tip]
->You can check the progress of a pending transaction in Metamask by clicking *Activity*, then below that it *should* be the last transaction, click this. The popup offers a link in the top left to Etherscan to view to progress of the transaction. Completely optional, as Metamask keeps monitoring this for you - but if you are bored waiting can this can be good to check.    
+>You can check the progress of a pending transaction in Metamask by clicking *Activity*, then below that *should* be the last transaction, click this. The popup offers a link in the top left to Etherscan to view to progress of the transaction. Completely optional, as Metamask keeps monitoring this for you - but if you are bored waiting can this can be good to check.    
 
-6. The wrapping should have occured however we can't see the WETH until we add the token details to Metamask. In Metamask:    
-* On the Main page, click *Assets*
-* Then click *Add Token* (You may need to scroll down to see it)
-* Add the following token address `0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`
-* The Token name should auotpopulate with WETH and the decimals will also autopopulate with 18
-* click *Next* (you should see your WETH at this stage)
-* click *Add Token*    
-
-Thats it! You will now see the WETH in your Metamask ready to move to the Lamden network. Next step, using Lamden Link.    
-
-### Metamask
+7. The unwrapping should have occured and you will now see the Ethereum (ETH) in your Metamask.
 
