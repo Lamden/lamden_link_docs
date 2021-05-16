@@ -15,10 +15,10 @@ If this is your first time using the Lamden Link you will require an account to 
 1. Head to Lamden Link - www.lamdenlink.com    
 
 2. You will need to click *Connect* to authorise Lamden Link for use with Metamask Wallet.  Follow the prompts similar to the images below, read the details, click *Next*, then click *Connect*.    
-![Linkdoc4](./static/L2ELink4.png ':size=600')    
+![Linkdoc4](./static/Link4.png ':size=600')    
 
 3. Click *Connect* again to create the account within your Lamden Wallet. You will be guided through the "Lamden Account Creation". You will get two prompts similar to below, read the instructions, click *NEXT*, then *Create Account*.    
-![Linkdoc3](./static/L2ELink3.png ':size=600')    
+![Linkdoc3](./static/Link3.png ':size=600')    
 
 >[!Note]
 >Creating a separate account for the Link app is a normal security feature of Lamden to prevent access to your full wallet by any one application.   
@@ -33,7 +33,7 @@ This step is optional, and the swap will function without performing this step. 
 * Select *Token* from the "What to Add?" option.
 * In Contract Name add `con_weth_lst001_v1`, then press *Enter*
 * Details should be like below, then click *Add Token*    
-![Linkdoc9](./static/L2ELink9.png ':size=300')
+![Linkdoc9](./static/Link9.png ':size=300')
 
 You will see the WETH along with any other tokens you have added to the wallet just above your other accounts.
 
@@ -53,7 +53,7 @@ You will see the WETH along with any other tokens you have added to the wallet j
 4. You will get a popup from Metamask to confirm the deposit on the Ethereum side (Ethereum gas fees apply), click *Confirm* to proceed.   
 
 5. You will receive the notification that swapping was successful on the Lamden Link site (Image Below).    
-![Linkdoc8](./static/L2ELink8.png ':size=800')
+![Linkdoc8](./static/Link8.png ':size=800')
 
 >[!Tip]
 >You can verify this by clicking the *switch* option, then selecting WETH from the token name dropdown. Your WETH should be sitting there on the Ethereum side. You can also verify this in Metamask (Next Step)    
@@ -72,7 +72,7 @@ You will see the WETH along with any other tokens you have added to the wallet j
 2. New we can go to Etherscan, specifically we need the WETH write contract (`0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`). [Link here will get you to the right spot.](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#writeContract)    
 
 3. Connect Metamask to the Etherscan site by clicking the button highlighted below. Follow the prompts on Metamask to approve the site to interact with Metamask.    
-![Linkdoc2](./static/L2ELink2.png ':size=600')
+![Linkdoc2](./static/Link2.png ':size=600')
 
 >[!Note] 
 >The button you clicked should now be showing as green. If it is still red, click the button again, follow the prompts and it should now go green.    
