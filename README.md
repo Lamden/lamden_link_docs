@@ -16,6 +16,6 @@ You will need the following wallets which are both available on the Chrome store
 * Metamask - [available here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 * Lamden Wallet - [available here](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim)
 
-For ease of progress make sure you are signed in to both wallets before starting the swap and either direction.
+If following the swap guides, make sure you are signed in to both wallets before starting the swap - this saves some potential confusion in the middle of the guides.
  
 
