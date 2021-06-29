@@ -91,3 +91,19 @@ You will see the WETH along with any other tokens you have added to the wallet j
 
 7. The unwrapping should have occured and you will now see the Ethereum (ETH) in your Metamask.
 
+### Resume a Swap from Lamden to Ethereum
+In the event that a swap from Lamden to Ethereum is interrupted halfway you will need to restart the process manually.
+You will know you're in this situation because the Lamden has burnt your tokens (they no longer are in your wallet), but no tokens were transferred to you on the Ethereum side.  This is generally the case when the Ethereum transaction that completes the process was cancelled, failed or is pending due to low gas.
+
+If the event of `pending` transaction due to low gas you can use metamask to "speed up" a transaction. Consult metamask for those details.
+
+In the event of a `cancelled` or `failed` transaction follow the instructions below to restart the swap process.
+
+### What you will need:
+1. `Burn Hash`: This hash can be obtained by opening your Lamden Link account in the Lamden Wallet and finding the most recent transaction with the method of `Burn`.
+
+### Steps to resume:
+1. Ensure the `From` box says Lamden and the `To` box says "Ethereum".  If not, click the `Switch` button.
+2. Click the `Resume Swap` button
+3. In the `Lamden BURN Transaction Hash` box enter the `Burn Hash` you retrieved above
+4. Click the `Send Tokens to Ethereum` button to reinitiate the swap process
