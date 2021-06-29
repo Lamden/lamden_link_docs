@@ -99,10 +99,10 @@ If the event of `pending` transaction due to low gas you can use metamask to "sp
 
 In the event of a `cancelled` or `failed` transaction follow the instructions below to restart the swap process.
 
-### What you will need:
+<strong>What you will need:</strong>
 1. `Burn Hash`: This hash can be obtained by opening your Lamden Link account in the Lamden Wallet and finding the most recent transaction with the method of `Burn`.
 
-### Steps to resume:
+<strong>Steps to resume:</strong>
 1. Ensure the `From` box says Lamden and the `To` box says "Ethereum".  If not, click the `Switch` button.
 2. Click the `Resume Swap` button
 3. In the `Lamden BURN Transaction Hash` box enter the `Burn Hash` you retrieved above
