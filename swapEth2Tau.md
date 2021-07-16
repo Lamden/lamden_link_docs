@@ -81,7 +81,7 @@ Your WETH should be in your Lamden Link account within your Lamden Wallet howeve
 1. Within your Lamden Wallet, click *ACCOUNTS & TOKENS*    
 2. From the Add New Account or Token popup:    
 * Select *Token* from the "What to Add?" option.
-* In Contract Name add `con_weth_lst001_v1`, then press *Enter*
+* In Contract Name add `con_weth_lst001`, then press *Enter*
 * Details should be like below, then click *Add Token*    
 ![Linkdoc9](./static/Link9.png ':size=300')
 
