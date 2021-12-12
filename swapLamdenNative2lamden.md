@@ -41,22 +41,23 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 > *Wallet Locked* - you must login to your Lamden Wallet
 
 ### STEP 3
+![external-lamden-step3a](./static/external-lamden-step3a.png ':size=800')
 
 During Step 3, you'll approve Lamden Link access to your tokens in MetaMask.
 
 1. Click *Send Token Approval* to begin
-![external-lamden-step3a](./static/external-lamden-step3a.png ':size=800')
 2. MetaMask Wallet will pop-up...click *Confirm*
 
 ![external-lamden-step3b](./static/external-lamden-step3b.png ':size=300')
 
 ### STEP 4
+![external-lamden-step4a](./static/external-lamden-step4a.png ':size=800')
 
 During Step 4, you'll lock your tokens in the Lamden Link contract.
 
 1. Click *Create Deposit Transaction* to begin
-![external-lamden-step4a](./static/external-lamden-step4a.png ':size=800')
 2. MetaMask Wallet will pop-up...click *Confirm*
+
 ![external-lamden-step4b](./static/external-lamden-step4b.png ':size=300')
 
 ### STEP 5
