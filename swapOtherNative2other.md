@@ -25,7 +25,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 3. Click *Next Step*
 
 >[!Tip]
->Some common issues you might encounter:
+>Some common issues you might encounter:<br/>
 > *Not Connected* - ensure you have the [Lamden Wallet](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim) installed on a compatible browser and fully logged in
 > *Wallet Locked* - you must login to your Lamden Wallet
 
