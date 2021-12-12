@@ -21,10 +21,10 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 2. Enter the quantity of tokens you'd like to move
 
 >[!Tip]
->Some common issues you might encounter:
-> *Not Connected* - ensure you have the [MetaMask Wallet](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) installed on a compatible browser and fully logged in
-> *Switch Metamask to Binance Smart Chain/Ethereum Mainnet* - within MetaMask, click the networks drop-down at the top and switch to the correct network
-> *No BNB/ETH Balance* - you need sufficient balance in your MetaMask wallet to cover [BNB](https://bscscan.com/gastracker) or [ETH](https://etherscan.io/gastracker) gas fees
+>Some common issues you might encounter:<br/>
+> *Not Connected* - ensure you have the [MetaMask Wallet](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) installed on a compatible browser and fully logged in<br/>
+> *Switch Metamask to Binance Smart Chain/Ethereum Mainnet* - within MetaMask, click the networks drop-down at the top and switch to the correct network<br/>
+> *No BNB/ETH Balance* - you need sufficient balance in your MetaMask wallet to cover [BNB](https://bscscan.com/gastracker) or [ETH](https://etherscan.io/gastracker) gas fees<br/>
 > *Something went wrong...* - ensure you're on a desktop computer (LamdenLink is not compatible with mobile devices) and that pop-up blockers are disabled
 
 ### STEP 2
@@ -36,8 +36,8 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 3. Click *Next Step*
 
 >[!Tip]
->Some common issues you might encounter:
-> *Not Connected* - ensure you have the [Lamden Wallet](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim) installed on a compatible browser and fully logged in
+>Some common issues you might encounter:<br/>
+> *Not Connected* - ensure you have the [Lamden Wallet](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim) installed on a compatible browser and fully logged in<br/>
 > *Wallet Locked* - you must login to your Lamden Wallet
 
 ### STEP 3
