@@ -47,13 +47,14 @@ During Step 3, you'll first approve the deposit and then complete the deposit to
 
 1. Click *Approve Deposit* to begin the deposit
 ![lamdennative-external-step3a](./static/lamdennative-external-step3a.png ':size=800')
-2. Lamden Wallet will pop-up...click *Approve*
 
+2. Lamden Wallet will pop-up...click *Approve*
 ![lamdennative-external-step3b](./static/lamdennative-external-step3b.png ':size=300')
+
 3. Click *Start Deposit*
 ![lamdennative-external-step3c](./static/lamdennative-external-step3c.png ':size=800')
-4. Lamden Wallet will pop-up...click *Approve*
 
+4. Lamden Wallet will pop-up...click *Approve*
 ![lamdennative-external-step3d](./static/lamdennative-external-step3d.png ':size=300')
 
 ### STEP 4
