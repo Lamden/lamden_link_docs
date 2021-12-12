@@ -3,7 +3,7 @@
 ## What is Lamden Link?
 Lamden Link is a two-way link between the Lamden blockchain and other blockchains such as Ethereum (ERC20) or Binance Smart Chain (BEP20). The bridge is necessary to allow a variety of tokens to move seamlessly between different blockchains. 
 
-Think of it as similar to a language translator between two different people. If I only speak English and you only speak Spanish, Lamden Link performs the role of the translator between us and enables us to seamlessly speak to each other.
+Think of it as similar to a language translator between two different people. If I only speak English and you only speak Spanish, Lamden Link performs the role of the translator and enables us to seamlessly speak to each other.
 
 If you’re unable to find your questions answered in the subsequent walk-throughs, please reach out to us on [Telegram](https://t.me/lamdenchat).
 
