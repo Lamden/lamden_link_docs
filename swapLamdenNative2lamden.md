@@ -47,7 +47,7 @@ During Step 3, you'll approve Lamden Link access to your tokens in MetaMask.
 1. Click *Send Token Approval* to begin
 ![external-lamden-step3a](./static/external-lamden-step3a.png ':size=800')
 2. MetaMask Wallet will pop-up...click *Confirm*
-![external-lamden-step3b](./static/external-lamden-step3b.png ':size=300')
+![external-lamden-step3b](./static/external-lamden-step3b.png ':size=150')
 
 ### STEP 4
 
