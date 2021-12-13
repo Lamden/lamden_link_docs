@@ -1,6 +1,6 @@
 ### Overview
 
-Transferring non-native tokens (ex. ETH) from either Ethereum (ERC20) or Binance Smart Chain (BEP20) to Lamden is a five step process. Before starting, you will require:
+Transferring non-native tokens (ex. ETH) from either Ethereum (ERC20) or Binance Smart Chain (BEP20) ➡️ Lamden is a 5️⃣ step process. Before starting, you will require:
 * Lamden Wallet, installed and logged in
 * MetaMask Wallet, installed and logged in
 * A small amount of Lamden TAU to cover fees - approximately 5 TAU
@@ -15,7 +15,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 2. Click the blockchain where your tokens currently reside (Ethereum or Binance Smart Chain)
 3. Select the token you want to move
 
-### STEP 1
+### STEP 1️⃣
 ![external-lamden-step1](./static/external-lamden-step1.png ':size=800')
 
 1. You'll be prompted to connect your MetaMask Wallet
@@ -27,7 +27,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 > * *No BNB/ETH Balance* - you need sufficient balance in your MetaMask wallet to cover [BNB](https://bscscan.com/gastracker) or [ETH](https://etherscan.io/gastracker) gas fees<br/>
 > * *Something went wrong...* - ensure you're on a desktop computer (LamdenLink is not compatible with mobile devices) and that pop-up blockers are disabled
 
-### STEP 2
+### STEP 2️⃣
 ![external-lamden-step2](./static/external-lamden-step2.png ':size=800')
 
 1. You'll be prompted to connect your Lamden Wallet
@@ -41,7 +41,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 > * *Not Connected* - ensure you have the [Lamden Wallet](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim) installed on a compatible browser and fully logged in<br/>
 > * *Wallet Locked* - you must login to your Lamden Wallet
 
-### STEP 3
+### STEP 3️⃣
 ![external-lamden-step3a](./static/external-lamden-step3a.png ':size=800')
 
 During Step 3, you'll approve Lamden Link access to your tokens in MetaMask.
@@ -51,7 +51,7 @@ During Step 3, you'll approve Lamden Link access to your tokens in MetaMask.
 
 ![external-lamden-step3b](./static/external-lamden-step3b.png ':size=300')
 
-### STEP 4
+### STEP 4️⃣
 ![external-lamden-step4a](./static/external-lamden-step4a.png ':size=800')
 
 During Step 4, you'll lock your tokens in the Lamden Link contract.
@@ -61,7 +61,7 @@ During Step 4, you'll lock your tokens in the Lamden Link contract.
 
 ![external-lamden-step4b](./static/external-lamden-step4b.png ':size=300')
 
-### STEP 5
+### STEP 5️⃣
 ![external-lamden-step5](./static/external-lamden-step5.png ':size=800')
 
 During Step 5, Lamden Link checks for the arrival of your tokens on the Lamden network. Please wait patiently while the network confirms the arrival of your tokens. 

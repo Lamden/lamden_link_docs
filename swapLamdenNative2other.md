@@ -1,6 +1,6 @@
 ### Overview
 
-Transferring native Lamden tokens (ex. TAU) from Lamden to either Ethereum (ERC20) or Binance Smart Chain (BEP20) is a four step process. Before starting, you will require:
+Transferring native Lamden tokens (ex. TAU) from Lamden ➡️ either Ethereum (ERC20) or Binance Smart Chain (BEP20) is a 4️⃣ step process. Before starting, you'll require:
 * Lamden Wallet, installed and logged in
 * MetaMask Wallet, installed and logged in
 * A small amount of Lamden TAU to cover fees - approximately 5 TAU
@@ -15,7 +15,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 3. Click which blockchain is the destination (Ethereum or Binance Smart Chain)
 4. Select the token you want to move
 
-### STEP 1
+### STEP 1️⃣
 ![lamden-external-step1](./static/lamden-external-step1.png ':size=800')
 
 1. You'll be prompted to connect your Lamden Wallet
@@ -29,7 +29,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 > * *Not Connected* - ensure you have the [Lamden Wallet](https://chrome.google.com/webstore/detail/lamden-wallet-browser-ext/fhfffofbcgbjjojdnpcfompojdjjhdim) installed on a compatible browser and fully logged in<br/>
 > * *Wallet Locked* - you must login to your Lamden Wallet
 
-### STEP 2
+### STEP 2️⃣
 ![lamden-external-step2](./static/lamden-external-step2.png ':size=800')
 
 1. You'll be prompted to connect your MetaMask Wallet
@@ -41,7 +41,7 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 > * *No BNB/ETH Balance* - you need sufficient balance in your MetaMask wallet to cover [BNB](https://bscscan.com/gastracker) or [ETH](https://etherscan.io/gastracker) gas fees<br/>
 > * *Something went wrong...* - ensure you're on a desktop computer (LamdenLink is not compatible with mobile devices) and that pop-up blockers are disabled
 
-### STEP 3
+### STEP 3️⃣
 
 During Step 3, you'll first approve the deposit and then complete the deposit to create a Proof-of-Deposit.
 
@@ -62,7 +62,7 @@ During Step 3, you'll first approve the deposit and then complete the deposit to
 ### STEP 4
 ![lamdennative-external-step4a](./static/lamdennative-external-step4a.png ':size=800')
 
-During Step 4, you'll withdraw your tokens to MetaMask.
+During Step 4️⃣, you'll withdraw your tokens to MetaMask.
 
 1. Click *Withdraw Tokens*
 2. MetaMask will pop-up prompting you to confirm the gas fees..click *Confirm*
