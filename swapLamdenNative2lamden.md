@@ -61,6 +61,7 @@ During Step 4, you'll lock your tokens in the Lamden Link contract.
 ![external-lamden-step4b](./static/external-lamden-step4b.png ':size=300')
 
 ### STEP 5
+![external-lamden-step5](./static/external-lamden-step5.png ':size=800')
 
 During Step 5, Lamden Link checks for the arrival of your tokens on the Lamden network. Please wait patiently while the network confirms the arrival of your tokens. 
 
