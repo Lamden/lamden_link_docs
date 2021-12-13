@@ -18,11 +18,12 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 ### STEP 1️⃣
 ![lamden-external-step1](./static/lamden-external-step1.png ':size=800')
 
-1. You'll be prompted to connect your Lamden Wallet
+In Step 1, you'll be prompted to connect your Lamden Wallet:
 * If this is your first time using Lamden Link, then you'll be asked to *Create Linked Account*
 * If you're a returning user, you'll be asked to *Connect To Lamden Wallet*
-2. Enter the quantity of tokens you'd like to move
-3. Click *Next Step*
+
+1. Enter the quantity of tokens you'd like to move
+2. Click *Next Step*
 
 >[!Tip]
 >Some common issues you might encounter:<br/>
@@ -32,7 +33,9 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 ### STEP 2️⃣
 ![lamden-external-step2](./static/lamden-external-step2.png ':size=800')
 
-1. You'll be prompted to connect your MetaMask Wallet
+For Step 2, you'll be prompted to connect your MetaMask Wallet.
+
+1. Click *Next Step*
 
 >[!Tip]
 >Some common issues you might encounter:<br/>
@@ -50,14 +53,14 @@ During Step 3, you'll first approve the deposit and then complete the deposit to
 
 2. Lamden Wallet will pop-up...click *Approve*
 
-![lamdennative-external-step3b](./static/lamdennative-external-step3b.png ':size=300')
+* ![lamdennative-external-step3b](./static/lamdennative-external-step3b.png ':size=300')
 
 3. Click *Start Deposit*
 ![lamdennative-external-step3c](./static/lamdennative-external-step3c.png ':size=800')
 
 4. Lamden Wallet will pop-up...click *Approve*
 
-![lamdennative-external-step3d](./static/lamdennative-external-step3d.png ':size=300')
+* ![lamdennative-external-step3d](./static/lamdennative-external-step3d.png ':size=300')
 
 ### STEP 4
 ![lamdennative-external-step4a](./static/lamdennative-external-step4a.png ':size=800')

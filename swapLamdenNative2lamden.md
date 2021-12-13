@@ -1,6 +1,6 @@
 ### Overview
 
-Transferring native Lamden tokens (ex. TAU) from either Ethereum (ERC20) or Binance Smart Chain (BEP20) ➡️ Lamden is a 5️⃣ step process. Before starting, you will require:
+Transferring native Lamden tokens (ex. TAU) from either Ethereum (ERC20) or Binance Smart Chain (BEP20) ➡️ Lamden is a 5️⃣ step process. Before starting, you'll require:
 * Lamden Wallet, installed and logged in
 * MetaMask Wallet, installed and logged in
 * A small amount of Lamden TAU to cover fees - approximately 5 TAU
@@ -17,8 +17,10 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 ### STEP 1️⃣
 ![external-lamden-step1](./static/external-lamden-step1.png ':size=800')
 
-1. You'll be prompted to connect your MetaMask Wallet
-2. Enter the quantity of tokens you'd like to move
+In Step 1, you'll be prompted to connect your MetaMask Wallet.
+
+1. Enter the quantity of tokens you'd like to move
+2. Click *Next Step*
 
 >[!Tip]
 >Some common issues you might encounter:<br/>
@@ -30,10 +32,11 @@ The first steps are fairly explanatory. You'll be prompted with a series of step
 ### STEP 2️⃣
 ![external-lamden-step2](./static/external-lamden-step2.png ':size=800')
 
-1. You'll be prompted to connect your Lamden Wallet
+For Step 2, you'll be prompted to connect your Lamden Wallet:
 * If this is your first time using Lamden Link, then you'll be asked to *Create Linked Account*
 * If you're a returning user, you'll be asked to *Connect To Lamden Wallet*
-3. Click *Next Step*
+
+1. Click *Next Step*
 
 >[!Tip]
 >Some common issues you might encounter:<br/>
