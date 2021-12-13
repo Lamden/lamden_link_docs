@@ -1,5 +1,5 @@
 ### Overview
-![4steps](./static/4steps.png ':size=800')
+![4steps-burn](./static/4steps-burn.png ':size=800')
 
 Transferring non-native tokens (ex. ETH) from Lamden ➡️ either Ethereum (ERC20) or Binance Smart Chain (BEP20) is a 4️⃣ step process. Before starting, you'll require:
 * Lamden Wallet, installed and logged in
