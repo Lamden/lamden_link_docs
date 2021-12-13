@@ -69,8 +69,7 @@ During Step 4️⃣, you'll withdraw your tokens to MetaMask.
 
 1. Click *Withdraw Tokens*
 2. MetaMask will pop-up prompting you to confirm the gas fees..click *Confirm*
-
-![lamden-external-step4b](./static/lamden-external-step4b.png ':size=300')
+* ![lamden-external-step4b](./static/lamden-external-step4b.png ':size=300')
 
 >[!Tip]
 >Some common issues you might encounter:<br/>

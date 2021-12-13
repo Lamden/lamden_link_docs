@@ -52,15 +52,13 @@ During Step 3, you'll first approve the burn and then complete the burn to creat
 ![lamden-external-step3a](./static/lamden-external-step3a.png ':size=800')
 
 2. Lamden Wallet will pop-up...click *Approve*
-
-![lamden-external-step3b](./static/lamden-external-step3b.png ':size=300')
+* ![lamden-external-step3b](./static/lamden-external-step3b.png ':size=300')
 
 3. Click *Start Burn*
 ![lamden-external-step3c](./static/lamden-external-step3c.png ':size=800')
 
 4. Lamden Wallet will pop-up...click *Approve*
-
-![lamden-external-step3d](./static/lamden-external-step3d.png ':size=300')
+* ![lamden-external-step3d](./static/lamden-external-step3d.png ':size=300')
 
 5. Click *Next Step*
 ![lamden-external-step3e](./static/lamden-external-step3e.png ':size=800')
@@ -76,8 +74,7 @@ During Step 4, you'll withdraw your tokens to MetaMask.
 
 1. Click *Withdraw Tokens*
 2. MetaMask will pop-up prompting you to confirm the gas fees..click *Confirm* (please be patient)
-
-![lamden-external-step4b](./static/lamden-external-step4b.png ':size=300')
+* ![lamden-external-step4b](./static/lamden-external-step4b.png ':size=300')
 
 >[!Tip]
 >Some common issues you might encounter:<br/>
