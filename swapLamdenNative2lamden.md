@@ -1,4 +1,5 @@
 ### Overview
+![5steps](./static/5steps.png ':size=800')
 
 Transferring native Lamden tokens (ex. TAU) from either Ethereum (ERC20) or Binance Smart Chain (BEP20) ➡️ Lamden is a 5️⃣ step process. Before starting, you'll require:
 * Lamden Wallet, installed and logged in
