@@ -53,6 +53,10 @@ During Step 3, you'll approve Lamden Link access to your tokens in MetaMask.
 2. MetaMask Wallet will pop-up...click *Confirm*
 * ![external-lamden-step3b](./static/external-lamden-step3b.png ':size=300')
 
+>[!Tip]
+>Some common issues you might encounter:<br/>
+> * *Skip Step* - if you were interrupted during step 4 and restarted the swap, then during step 3 you can click the *Skip Step* button since you already performed the approval transaction and can return to step 4
+
 ### STEP 4️⃣
 ![external-lamden-step4a](./static/external-lamden-step4a.png ':size=800')
 
