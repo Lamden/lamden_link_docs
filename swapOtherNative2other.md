@@ -80,6 +80,7 @@ During Step 4, you'll withdraw your tokens to MetaMask.
 >[!Tip]
 >Some common issues you might encounter:<br/>
 > * *Could not get proof of recording from hash recording* - refresh the browser page and follow the steps again; it should re-prompt you for the transaction
+> * *Funds aren't appearing in my MetaMask wallet* - view the section below titled "Resume a Swap" for steps you can take
 
 ### Completed
 
@@ -93,13 +94,25 @@ If the event of `pending` transaction due to low gas you can use MetaMask to "sp
 In the event of a `cancelled` or `failed` transaction, follow the instructions below to restart the swap process.
 
 <strong>What you will need:</strong>
-1. `Burn Hash`: This hash can be obtained by opening your Lamden Link account in the Lamden Wallet and finding the most recent transaction with the method of `Burn`.
+1. `Burn Hash ID`: This hash can be obtained by looking up your account ID via TAUHQ.com and finding the most recent Lamden Link transaction with the function of `Burn`.
 
 <strong>Steps to resume:</strong>
-1. Ensure the `From` box says Lamden and the `To` box says "Ethereum" or "Binance Smart Chain".  If not, click the `Switch` button.
-2. Click the `Resume Swap` button
-3. In the `Lamden BURN Transaction Hash` box enter the `Burn Hash` you retrieved above
-4. Click the `Send Tokens to Ethereum` button to reinitiate the swap process
+1. Reconnect your wallets, if needed, and click the `Resume Swap` button
+3. In the `Input Burn Hash` box enter the `Burn Hash ID` you retrieved above
+4. Click the `Next Step` button to reinitiate the swap process
+
+<strong>Steps to resume (<strong>only</strong> if the 'Resume Swap' button is missing):</strong>
+1. Visit [https://www.lamdenlink.com/restart](https://www.lamdenlink.com/restart) and restart the swap by clicking "Start Swap Over" (big orange button)
+2. Click *Start A New Swap* and choose the exact same blockchain and token options as before
+3. On Step 1, enter the same swap amount as before and click *Resume Swap*
+5. On Step 2, connect to MetaMask and click *Next Step*
+6. On Step 3, click *Skip Approve Step*
+7. Then click "Input Burn Hash" and enter the `Burn Hash ID` you retrieved above and click *Check Transaction Again*
+8. Follow the rest of the steps to complete your swap
+
+>[!Tip]
+>Some common issues you might encounter:<br/>
+> * *'Check Transaction Again' step isn't being recognized* - double check you've entered the exact same swap amount that you did previously; if you didn't, then you can restart bullets 1-8 again
 
 ### Unwrapping your WETH (on Etherscan)
 
