@@ -92,17 +92,17 @@ In the event of a `cancelled` or `failed` transaction, follow the instructions b
 1. `Deposit Hash ID`: This hash can be obtained by looking up your account ID via TAUHQ.com and finding the most recent Lamden Link transaction with the function of `Deposit`.
 
 <strong>Steps to resume:</strong>
-1. Reconnect your wallets, if needed, and click the `Resume Swap` button
+1. Reconnect your wallets, if needed, and click the *Resume Swap* button
 3. In the `Input Deposit Hash` box enter the `Deposit Hash ID` you retrieved above
-4. Click the `Next Step` button to reinitiate the swap process
+4. Click the *Next Step* button to reinitiate the swap process
 
 <strong>Steps to resume (<strong>only</strong> if the 'Resume Swap' button is missing):</strong>
-1. Visit [https://www.lamdenlink.com/restart](https://www.lamdenlink.com/restart) and restart the swap by clicking "Start Swap Over" (big orange button)
+1. Visit [https://www.lamdenlink.com/restart](https://www.lamdenlink.com/restart) and restart the swap by clicking *Start Swap Over* (big orange button)
 2. Click *Start A New Swap* and choose the exact same blockchain and token options as before
 3. On Step 1, enter the same swap amount as before and click *Resume Swap*
 5. On Step 2, connect to MetaMask and click *Next Step*
 6. On Step 3, click *Skip Approve Step*
-7. Then click "Input Deposit Hash" and enter the `Deposit Hash ID` you retrieved above and click *Check Transaction Again*
+7. Then click "Input Deposit Hash" and enter the 'Deposit Hash ID' you retrieved above and click *Check Transaction Again*
 8. Follow the rest of the steps to complete your swap
 
 >[!Tip]
